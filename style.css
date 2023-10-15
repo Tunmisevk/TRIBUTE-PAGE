@@ -1,0 +1,29 @@
+.body{
+    background-color: rgb(233, 230, 230);
+}
+img{
+    margin-top: 20px;
+    display: block;
+    max-width: 100%;
+    height:auto;
+}
+.list {
+    
+    list-style-position:outside;
+    margin-left: 30%;
+    line-height: 40px;
+    justify-content:space-around;
+   
+}
+ul{
+    margin-left: 30px;
+}
+.header{
+    line-height: 10px;
+    justify-content: center;
+    padding-top: 50px;
+}
+.tribute link{
+   justify-content: center;
+    margin-left:100%;
+}
